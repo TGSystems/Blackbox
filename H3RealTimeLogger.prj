@@ -1,0 +1,20 @@
+[Project ID]
+	Signature=UE Proj: v.1
+[Project Information]
+	Use Relative Directory=1
+	Relative to Project File=1
+	Include Sub Directories=1
+	Project Tagfile=
+	Project Wordfile=
+	Project TpFile=
+	Filter=
+	Create Tagfile=0
+[Files]
+	0=AssemblyInfo.cs
+	1=Form1.cs
+	2=H3PacketRT.cs
+	3=RTLog.cs
+	4=RTLogCommLayer.cs
+	5=RTLogContainer.cs
+	6=Form1.resx
+	7=H3RealTimeLogger.STEVE-PC.Steve Morgan.pui
